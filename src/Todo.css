@@ -1,0 +1,12 @@
+.Todo {
+    border: 2px solid black;
+    padding: 3vh;
+}
+
+.Todo-text {
+    display: inline;
+}
+
+.Todo-btn {
+    margin-left: 10vw;
+}
